@@ -1,7 +1,5 @@
 /*TODO: Add a background color or image to your website*/
-body {
- background-color: pink; 
-}
+
 
 
 h1 {
@@ -10,7 +8,7 @@ h1 {
 
 
 body {
-  backround-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fpink%2520background%2F&psig=AOvVaw2GoD_RaMIjpihyd7dDgMr3&ust=1592403298343000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCU2NrChuoCFQAAAAAdAAAAABAD")
+  backround-image: ("pinkbackground.jpeg");
 }
 
 
