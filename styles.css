@@ -30,7 +30,11 @@ body {
 
 img {
   border-radius: 50%;
+  max-height: 500px;
+  margin-bottom: 2em;
+  border: 3px solid #003046;
 }
+
 
 
 h1 {
@@ -39,8 +43,17 @@ h1 {
   font-family: 'La Belle Aurore', cursive;
 }
 
+
+
 body {
   background-image: linear-gradient(pink, green);
+}
+
+p {
+  font-size: 1em;
+  color: #003046;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
