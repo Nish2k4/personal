@@ -65,7 +65,7 @@ ul {
 
 
 li {
-  background: white;
+  background: pink;
   display: inline;
   margin: 15px;
 }
@@ -79,11 +79,12 @@ li a {
 }
 
 li a:hover {
-  background-color: black;
+  background-color: white;
 }
 
 
 /* Created a Flexbox to create a responsive layout. */ 
+
 
 .container {
   display: flex;
