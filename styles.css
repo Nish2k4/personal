@@ -36,9 +36,12 @@ img {
 h1 {
   color: white;
   text-align: center;
-   font-family: Impact, Charcoal, sans-serif;
+  font-family: 'La Belle Aurore', cursive;
 }
 
+body {
+  background-image: linear-gradient(pink, green);
+}
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
@@ -51,7 +54,7 @@ ul {
 li {
   background: white;
   display: inline;
-  margin: 20px;
+  margin: 15px;
 }
 
 li a {
