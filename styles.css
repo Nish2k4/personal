@@ -12,6 +12,11 @@ body {
 }
 
 
+nav {
+  text-align: center;
+}
+  
+
 /* Class attribute and styled the header section(s) of the website. */
 .header {
   color: black;
@@ -46,6 +51,7 @@ h1 {
 
 
 body {
+  background-attachment:fixed;
   background-image: linear-gradient(pink, green);
 }
 
@@ -54,6 +60,7 @@ p {
   color: #003046;
   padding-top: 1em;
   padding-bottom: 1em;
+  text-align: center;
 }
 
 /* Styled the Nav Bar */
